@@ -1,0 +1,6 @@
+{
+  "name": "LatinPlayer IPTV",
+  "description": "Reproductor de streaming IPTV para canales en vivo con lista M3U integrada, categorías por país y temática, favoritos y reproductor avanzado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
